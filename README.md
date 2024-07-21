@@ -15,7 +15,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#running-the-application">Running the Application</a></li>
+        <li><a href="#build-and-running-the-application">Building and Running the Application</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
